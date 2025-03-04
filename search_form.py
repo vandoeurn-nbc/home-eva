@@ -195,9 +195,3 @@ class PropertyPriceEstimation(QWidget):
         except Exception as e:
             palette.setColor(QPalette.ColorRole.Window, Qt.GlobalColor.white)
         self.setPalette(palette)
-
-if __name__ == "__main__":
-    app = QApplication([])
-    window = PropertyPriceEstimation()
-    window.show()
-    app.exec()
