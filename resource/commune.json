@@ -1,0 +1,1787 @@
+[
+    {
+        "id": "964",
+        "type": "commune",
+        "en_name": "Boeng Keng Kang Bei",
+        "km_name": "បឹងកេងកងទី ៣",
+        "slug": "boeng-keng-kang-bei",
+        "district_slug": "boeng-keng-kang",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.547598,
+            "y": 104.917943,
+            "z": 15
+        }
+    },
+    {
+        "id": "962",
+        "type": "commune",
+        "en_name": "Boeng Keng Kang Muoy",
+        "km_name": "បឹងកេងកងទី ១",
+        "slug": "boeng-keng-kang-muoy",
+        "district_slug": "boeng-keng-kang",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.551604,
+            "y": 104.925194,
+            "z": 15
+        }
+    },
+    {
+        "id": "963",
+        "type": "commune",
+        "en_name": "Boeng Keng Kang Pir",
+        "km_name": "បឹងកេងកងទី ២",
+        "slug": "boeng-keng-kang-pir",
+        "district_slug": "boeng-keng-kang",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.553323,
+            "y": 104.918436,
+            "z": 15
+        }
+    },
+    {
+        "id": "965",
+        "type": "commune",
+        "en_name": "Olympic",
+        "km_name": "អូឡាំពិក",
+        "slug": "olympic",
+        "district_slug": "boeng-keng-kang",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.553684,
+            "y": 104.913327,
+            "z": 15
+        }
+    },
+    {
+        "id": "968",
+        "type": "commune",
+        "en_name": "Tumnob Tuek",
+        "km_name": "ទំនប់ទឹក",
+        "slug": "tumnob-tuek",
+        "district_slug": "boeng-keng-kang",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.546472,
+            "y": 104.904535,
+            "z": 15
+        }
+    },
+    {
+        "id": "966",
+        "type": "commune",
+        "en_name": "Tuol Svay Prey Muoy",
+        "km_name": "ទួលស្វាយព្រៃទី ១",
+        "slug": "tuol-svay-prey-muoy",
+        "district_slug": "boeng-keng-kang",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.54909,
+            "y": 104.910498,
+            "z": 15
+        }
+    },
+    {
+        "id": "967",
+        "type": "commune",
+        "en_name": "Tuol Svay Prey Pir",
+        "km_name": "ទួលស្វាយព្រៃទី ២",
+        "slug": "tuol-svay-prey-pir",
+        "district_slug": "boeng-keng-kang",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.553602,
+            "y": 104.906718,
+            "z": 15
+        }
+    },
+    {
+        "id": "971",
+        "type": "commune",
+        "en_name": "Boeng Trabaek",
+        "km_name": "បឹងត្របែក",
+        "slug": "boeng-trabaek",
+        "district_slug": "chamkar-mon",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.540061901591,
+            "y": 104.92078884702,
+            "z": 15
+        }
+    },
+    {
+        "id": "972",
+        "type": "commune",
+        "en_name": "Phsar Daeum Thkov",
+        "km_name": "ផ្សារដើមថ្កូវ",
+        "slug": "phsar-daeum-thkov",
+        "district_slug": "chamkar-mon",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.530683781492,
+            "y": 104.92021994441,
+            "z": 15
+        }
+    },
+    {
+        "id": "961",
+        "type": "commune",
+        "en_name": "Tonle Basak",
+        "km_name": "ទន្លេបាសាក់",
+        "slug": "tonle-basak",
+        "district_slug": "chamkar-mon",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.546592517292,
+            "y": 104.93481064516,
+            "z": 15
+        }
+    },
+    {
+        "id": "970",
+        "type": "commune",
+        "en_name": "Tuol Tumpung Muoy",
+        "km_name": "ទួលទំពូងទី ១",
+        "slug": "tuol-tumpung-muoy",
+        "district_slug": "chamkar-mon",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.538401,
+            "y": 104.916862,
+            "z": 15
+        }
+    },
+    {
+        "id": "969",
+        "type": "commune",
+        "en_name": "Tuol Tumpung Pir",
+        "km_name": "ទួលទំពូងទី ២",
+        "slug": "tuol-tumpung-pir",
+        "district_slug": "chamkar-mon",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.539986,
+            "y": 104.911984,
+            "z": 15
+        }
+    },
+    {
+        "id": "1060",
+        "type": "commune",
+        "en_name": "Chbar Ampov Muoy",
+        "km_name": "ច្បារអំពៅទី ១",
+        "slug": "chbar-ampov-muoy",
+        "district_slug": "chbar-ampov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.52998,
+            "y": 104.938582,
+            "z": 15
+        }
+    },
+    {
+        "id": "1061",
+        "type": "commune",
+        "en_name": "Chbar Ampov Pir",
+        "km_name": "ច្បារអំពៅទី ២",
+        "slug": "chbar-ampov-pir",
+        "district_slug": "chbar-ampov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.536128,
+            "y": 104.937492,
+            "z": 15
+        }
+    },
+    {
+        "id": "1066",
+        "type": "commune",
+        "en_name": "Kbal Kaoh",
+        "km_name": "ក្បាលកោះ",
+        "slug": "kbal-kaoh",
+        "district_slug": "chbar-ampov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.5249,
+            "y": 105.0163,
+            "z": 15
+        }
+    },
+    {
+        "id": "1062",
+        "type": "commune",
+        "en_name": "Nirouth",
+        "km_name": "និរោធ",
+        "slug": "nirouth",
+        "district_slug": "chbar-ampov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.533700571168,
+            "y": 104.95356167552,
+            "z": 15
+        }
+    },
+    {
+        "id": "1065",
+        "type": "commune",
+        "en_name": "Preaek Aeng",
+        "km_name": "ព្រែកឯង",
+        "slug": "preaek-aeng",
+        "district_slug": "chbar-ampov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.528182101828,
+            "y": 104.98865874508,
+            "z": 15
+        }
+    },
+    {
+        "id": "1063",
+        "type": "commune",
+        "en_name": "Preaek Pra",
+        "km_name": "ព្រែកប្រា",
+        "slug": "preaek-pra",
+        "district_slug": "chbar-ampov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.508733389245,
+            "y": 104.95049589426,
+            "z": 15
+        }
+    },
+    {
+        "id": "1067",
+        "type": "commune",
+        "en_name": "Preaek Thmei",
+        "km_name": "ព្រែកថ្មី",
+        "slug": "preaek-thmei",
+        "district_slug": "chbar-ampov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.4783,
+            "y": 105.0031,
+            "z": 15
+        }
+    },
+    {
+        "id": "1064",
+        "type": "commune",
+        "en_name": "Veal Sbov",
+        "km_name": "វាលស្បូវ",
+        "slug": "veal-sbov",
+        "district_slug": "chbar-ampov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.526213603004,
+            "y": 104.97107291971,
+            "z": 15
+        }
+    },
+    {
+        "id": "1052",
+        "type": "commune",
+        "en_name": "Bak Khaeng",
+        "km_name": "បាក់ខែង",
+        "slug": "bak-khaeng",
+        "district_slug": "chrouy-changva",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.707852,
+            "y": 104.928076,
+            "z": 15
+        }
+    },
+    {
+        "id": "1048",
+        "type": "commune",
+        "en_name": "Chrouy Changva",
+        "km_name": "ជ្រោយចង្វារ",
+        "slug": "chrouy-changva",
+        "district_slug": "chrouy-changva",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.586405,
+            "y": 104.933788,
+            "z": 15
+        }
+    },
+    {
+        "id": "1051",
+        "type": "commune",
+        "en_name": "Kaoh Dach",
+        "km_name": "កោះដាច់",
+        "slug": "kaoh-dach",
+        "district_slug": "chrouy-changva",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.672632,
+            "y": 104.940596,
+            "z": 15
+        }
+    },
+    {
+        "id": "1049",
+        "type": "commune",
+        "en_name": "Preaek Lieb",
+        "km_name": "ព្រែកលៀប",
+        "slug": "preaek-lieb",
+        "district_slug": "chrouy-changva",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.647641,
+            "y": 104.915357,
+            "z": 15
+        }
+    },
+    {
+        "id": "1050",
+        "type": "commune",
+        "en_name": "Preaek Ta Sek",
+        "km_name": "ព្រែកតាសេក",
+        "slug": "preaek-ta-sek",
+        "district_slug": "chrouy-changva",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.646318,
+            "y": 104.897557,
+            "z": 15
+        }
+    },
+    {
+        "id": "1013",
+        "type": "commune",
+        "en_name": "Cheung Aek",
+        "km_name": "ជើងឯក",
+        "slug": "cheung-aek",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.476766161826,
+            "y": 104.90707947714,
+            "z": 15
+        }
+    },
+    {
+        "id": "1006",
+        "type": "commune",
+        "en_name": "Dangkao",
+        "km_name": "ដង្កោ",
+        "slug": "dangkao",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.500785989993,
+            "y": 104.8916018923,
+            "z": 15
+        }
+    },
+    {
+        "id": "1014",
+        "type": "commune",
+        "en_name": "Kong Noy",
+        "km_name": "គងនយ",
+        "slug": "kong-noy",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.436820152458,
+            "y": 104.83968332603,
+            "z": 15
+        }
+    },
+    {
+        "id": "1010",
+        "type": "commune",
+        "en_name": "Krang Pongro",
+        "km_name": "ក្រាំងពង្រ",
+        "slug": "krang-pongro",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.445228178713,
+            "y": 104.80759469589,
+            "z": 15
+        }
+    },
+    {
+        "id": "1007",
+        "type": "commune",
+        "en_name": "Pong Tuek",
+        "km_name": "ពងទឹក",
+        "slug": "pong-tuek",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.474807973091,
+            "y": 104.82371734439,
+            "z": 15
+        }
+    },
+    {
+        "id": "1015",
+        "type": "commune",
+        "en_name": "Preaek Kampis",
+        "km_name": "ព្រែកកំពឹស",
+        "slug": "preaek-kampis",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.444995,
+            "y": 104.903607,
+            "z": 15
+        }
+    },
+    {
+        "id": "1009",
+        "type": "commune",
+        "en_name": "Prey Sa",
+        "km_name": "ព្រៃស",
+        "slug": "prey-sa",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.494406026955,
+            "y": 104.86088286296,
+            "z": 15
+        }
+    },
+    {
+        "id": "1008",
+        "type": "commune",
+        "en_name": "Prey Veaeng",
+        "km_name": "ព្រៃវែង",
+        "slug": "prey-veaeng",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.473130014804,
+            "y": 104.8445277861,
+            "z": 15
+        }
+    },
+    {
+        "id": "1016",
+        "type": "commune",
+        "en_name": "Roluos",
+        "km_name": "រលួស",
+        "slug": "roluos",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.43849318967,
+            "y": 104.87276772588,
+            "z": 15
+        }
+    },
+    {
+        "id": "1012",
+        "type": "commune",
+        "en_name": "Sak Sampov",
+        "km_name": "សាក់សំពៅ",
+        "slug": "sak-sampov",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.453144466121,
+            "y": 104.84296045904,
+            "z": 15
+        }
+    },
+    {
+        "id": "1017",
+        "type": "commune",
+        "en_name": "Spean Thma",
+        "km_name": "ស្ពានថ្ម",
+        "slug": "spean-thma",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.462377136466,
+            "y": 104.87551449456,
+            "z": 15
+        }
+    },
+    {
+        "id": "1018",
+        "type": "commune",
+        "en_name": "Tien",
+        "km_name": "ទៀន",
+        "slug": "tien",
+        "district_slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.439347971463,
+            "y": 104.85700804736,
+            "z": 15
+        }
+    },
+    {
+        "id": "977",
+        "type": "commune",
+        "en_name": "Boeng Reang",
+        "km_name": "បឹងរាំង",
+        "slug": "boeng-reang",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.562099711322,
+            "y": 104.92230227633,
+            "z": 15
+        }
+    },
+    {
+        "id": "980",
+        "type": "commune",
+        "en_name": "Chakto Mukh",
+        "km_name": "ចតុមុខ",
+        "slug": "chakto-mukh",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.559056631841,
+            "y": 104.93589350943,
+            "z": 15
+        }
+    },
+    {
+        "id": "981",
+        "type": "commune",
+        "en_name": "Chey Chumneah",
+        "km_name": "ជ័យជំនះ",
+        "slug": "chey-chumneah",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.563643,
+            "y": 104.930211,
+            "z": 15
+        }
+    },
+    {
+        "id": "982",
+        "type": "commune",
+        "en_name": "Phsar Chas",
+        "km_name": "ផ្សារចាស់",
+        "slug": "phsar-chas",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.571288429427,
+            "y": 104.92572760567,
+            "z": 15
+        }
+    },
+    {
+        "id": "978",
+        "type": "commune",
+        "en_name": "Phsar Kandal Muoy",
+        "km_name": "ផ្សារកណ្ដាលទី១",
+        "slug": "phsar-kandal-muoy",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.569521,
+            "y": 104.92907,
+            "z": 15
+        }
+    },
+    {
+        "id": "979",
+        "type": "commune",
+        "en_name": "Phsar Kandal Pir",
+        "km_name": "ផ្សារកណ្ដាលទី២",
+        "slug": "phsar-kandal-pir",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.567515,
+            "y": 104.926485,
+            "z": 15
+        }
+    },
+    {
+        "id": "976",
+        "type": "commune",
+        "en_name": "Phsar Thmei Bei",
+        "km_name": "ផ្សារថ្មីទី ៣",
+        "slug": "phsar-thmei-bei",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.566396,
+            "y": 104.923409,
+            "z": 15
+        }
+    },
+    {
+        "id": "974",
+        "type": "commune",
+        "en_name": "Phsar Thmei Muoy",
+        "km_name": "ផ្សារថ្មីទី ១",
+        "slug": "phsar-thmei-muoy",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.570701,
+            "y": 104.921869,
+            "z": 15
+        }
+    },
+    {
+        "id": "975",
+        "type": "commune",
+        "en_name": "Phsar Thmei Pir",
+        "km_name": "ផ្សារថ្មីទី ២",
+        "slug": "phsar-thmei-pir",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.568968,
+            "y": 104.919368,
+            "z": 15
+        }
+    },
+    {
+        "id": "983",
+        "type": "commune",
+        "en_name": "Srah Chak",
+        "km_name": "ស្រះចក",
+        "slug": "srah-chak",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.579108317459,
+            "y": 104.91486554995,
+            "z": 15
+        }
+    },
+    {
+        "id": "984",
+        "type": "commune",
+        "en_name": "Voat Phnum",
+        "km_name": "វត្ដភ្នំ",
+        "slug": "voat-phnum",
+        "district_slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.574542740997,
+            "y": 104.92366882711,
+            "z": 15
+        }
+    },
+    {
+        "id": "1042",
+        "type": "commune",
+        "en_name": "Boeng Thum",
+        "km_name": "បឹងធំ",
+        "slug": "boeng-thum",
+        "district_slug": "kamboul",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.477274,
+            "y": 104.767819,
+            "z": 15
+        }
+    },
+    {
+        "id": "1043",
+        "type": "commune",
+        "en_name": "Kamboul",
+        "km_name": "កំបូល",
+        "slug": "kamboul",
+        "district_slug": "kamboul",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.538513,
+            "y": 104.772137,
+            "z": 15
+        }
+    },
+    {
+        "id": "1044",
+        "type": "commune",
+        "en_name": "Kantaok",
+        "km_name": "កន្ទោក",
+        "slug": "kantaok",
+        "district_slug": "kamboul",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.510769,
+            "y": 104.788358,
+            "z": 15
+        }
+    },
+    {
+        "id": "1045",
+        "type": "commune",
+        "en_name": "Ovlaok",
+        "km_name": "ឪឡោក",
+        "slug": "ovlaok",
+        "district_slug": "kamboul",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.568223,
+            "y": 104.740208,
+            "z": 15
+        }
+    },
+    {
+        "id": "1038",
+        "type": "commune",
+        "en_name": "Phleung Chheh Roteh",
+        "km_name": "ភ្លើងឆេះរទេះ",
+        "slug": "phleung-chheh-roteh",
+        "district_slug": "kamboul",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.493808,
+            "y": 104.806041,
+            "z": 15
+        }
+    },
+    {
+        "id": "1011",
+        "type": "commune",
+        "en_name": "Prateah Lang",
+        "km_name": "ប្រទះឡាង",
+        "slug": "prateah-lang",
+        "district_slug": "kamboul",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.468453,
+            "y": 104.797495,
+            "z": 15
+        }
+    },
+    {
+        "id": "1046",
+        "type": "commune",
+        "en_name": "Snao",
+        "km_name": "ស្នោ",
+        "slug": "snao",
+        "district_slug": "kamboul",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.578381,
+            "y": 104.773237,
+            "z": 15
+        }
+    },
+    {
+        "id": "1021",
+        "type": "commune",
+        "en_name": "Boeng Tumpun 1",
+        "km_name": "បឹងទំពុនទី១",
+        "slug": "boeng-tumpun-1",
+        "district_slug": "mean-chey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.526905,
+            "y": 104.908327,
+            "z": 15
+        }
+    },
+    {
+        "id": "1868",
+        "type": "commune",
+        "en_name": "Boeng Tumpun 2",
+        "km_name": "បឹងទំពុនទី២",
+        "slug": "boeng-tumpun-2",
+        "district_slug": "mean-chey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.531468,
+            "y": 104.906014,
+            "z": 15
+        }
+    },
+    {
+        "id": "1023",
+        "type": "commune",
+        "en_name": "Chak Angrae Kraom",
+        "km_name": "ចាក់អង្រែក្រោម",
+        "slug": "chak-angrae-kraom",
+        "district_slug": "mean-chey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.500197239768,
+            "y": 104.92771580618,
+            "z": 15
+        }
+    },
+    {
+        "id": "1022",
+        "type": "commune",
+        "en_name": "Chak Angrae Leu",
+        "km_name": "ចាក់អង្រែលើ",
+        "slug": "chak-angrae-leu",
+        "district_slug": "mean-chey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.520439961667,
+            "y": 104.9262863374,
+            "z": 15
+        }
+    },
+    {
+        "id": "1020",
+        "type": "commune",
+        "en_name": "Stueng Mean chey 1",
+        "km_name": "ស្ទឹងមានជ័យទី១",
+        "slug": "stueng-mean-chey-1",
+        "district_slug": "mean-chey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.541396,
+            "y": 104.878852,
+            "z": 15
+        }
+    },
+    {
+        "id": "1869",
+        "type": "commune",
+        "en_name": "Stueng Mean chey 2",
+        "km_name": "ស្ទឹងមានជ័យទី២",
+        "slug": "stueng-mean-chey-2",
+        "district_slug": "mean-chey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.535003,
+            "y": 104.893089,
+            "z": 15
+        }
+    },
+    {
+        "id": "1870",
+        "type": "commune",
+        "en_name": "Stueng Mean chey 3",
+        "km_name": "ស្ទឹងមានជ័យទី៣",
+        "slug": "stueng-mean-chey-3",
+        "district_slug": "mean-chey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.527837,
+            "y": 104.875338,
+            "z": 15
+        }
+    },
+    {
+        "id": "1039",
+        "type": "commune",
+        "en_name": "Chaom Chau 1",
+        "km_name": "ចោមចៅទី១",
+        "slug": "chaom-chau-1",
+        "district_slug": "por-senchey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.523233,
+            "y": 104.85911,
+            "z": 15
+        }
+    },
+    {
+        "id": "1865",
+        "type": "commune",
+        "en_name": "Chaom Chau 2",
+        "km_name": "ចោមចៅទី២",
+        "slug": "chaom-chau-2",
+        "district_slug": "por-senchey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.522539,
+            "y": 104.833925,
+            "z": 15
+        }
+    },
+    {
+        "id": "1866",
+        "type": "commune",
+        "en_name": "Chaom Chau 3",
+        "km_name": "ចោមចៅទី៣",
+        "slug": "chaom-chau-3",
+        "district_slug": "por-senchey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.532772,
+            "y": 104.818829,
+            "z": 15
+        }
+    },
+    {
+        "id": "1040",
+        "type": "commune",
+        "en_name": "Kakab 1",
+        "km_name": "កាកាបទី១",
+        "slug": "kakab-1",
+        "district_slug": "por-senchey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.553901,
+            "y": 104.852184,
+            "z": 15
+        }
+    },
+    {
+        "id": "1867",
+        "type": "commune",
+        "en_name": "Kakab 2",
+        "km_name": "កាកាបទី២",
+        "slug": "kakab-2",
+        "district_slug": "por-senchey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.557351,
+            "y": 104.829168,
+            "z": 15
+        }
+    },
+    {
+        "id": "1041",
+        "type": "commune",
+        "en_name": "Samraong Kraom",
+        "km_name": "សំរោងក្រោម",
+        "slug": "samraong-kraom",
+        "district_slug": "por-senchey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.573745,
+            "y": 104.804378,
+            "z": 15
+        }
+    },
+    {
+        "id": "1037",
+        "type": "commune",
+        "en_name": "Trapeang Krasang",
+        "km_name": "ត្រពាំងក្រសាំង",
+        "slug": "trapeang-krasang",
+        "district_slug": "por-senchey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.553392,
+            "y": 104.796916,
+            "z": 15
+        }
+    },
+    {
+        "id": "993",
+        "type": "commune",
+        "en_name": "Boeng Prolit",
+        "km_name": "បឹងព្រលឹត",
+        "slug": "boeng-prolit",
+        "district_slug": "prampir-meakkakra",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.559258,
+            "y": 104.917632,
+            "z": 15
+        }
+    },
+    {
+        "id": "991",
+        "type": "commune",
+        "en_name": "Mittakpheap",
+        "km_name": "មិត្ដភាព",
+        "slug": "mittakpheap",
+        "district_slug": "prampir-meakkakra",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.569216,
+            "y": 104.911104,
+            "z": 15
+        }
+    },
+    {
+        "id": "990",
+        "type": "commune",
+        "en_name": "Monourom",
+        "km_name": "មនោរម្យ",
+        "slug": "monourom",
+        "district_slug": "prampir-meakkakra",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.569423078424,
+            "y": 104.91712701513,
+            "z": 15
+        }
+    },
+    {
+        "id": "988",
+        "type": "commune",
+        "en_name": "Ou Ruessei Bei",
+        "km_name": "អូរឫស្សីទី ៣",
+        "slug": "ou-ruessei-bei",
+        "district_slug": "prampir-meakkakra",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.565243,
+            "y": 104.916069,
+            "z": 15
+        }
+    },
+    {
+        "id": "989",
+        "type": "commune",
+        "en_name": "Ou Ruessei Buon",
+        "km_name": "អូរឫស្សីទី ៤",
+        "slug": "ou-ruessei-buon",
+        "district_slug": "prampir-meakkakra",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.565023,
+            "y": 104.918783,
+            "z": 15
+        }
+    },
+    {
+        "id": "986",
+        "type": "commune",
+        "en_name": "Ou Ruessei Muoy",
+        "km_name": "អូរឫស្សីទី ១",
+        "slug": "ou-ruessei-muoy",
+        "district_slug": "prampir-meakkakra",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.563695,
+            "y": 104.917411,
+            "z": 15
+        }
+    },
+    {
+        "id": "987",
+        "type": "commune",
+        "en_name": "Ou Ruessei Pir",
+        "km_name": "អូរឫស្សីទី ២",
+        "slug": "ou-ruessei-pir",
+        "district_slug": "prampir-meakkakra",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.56328,
+            "y": 104.914199,
+            "z": 15
+        }
+    },
+    {
+        "id": "992",
+        "type": "commune",
+        "en_name": "Veal Vong",
+        "km_name": "វាលវង់",
+        "slug": "veal-vong",
+        "district_slug": "prampir-meakkakra",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.56190317255,
+            "y": 104.91134164335,
+            "z": 15
+        }
+    },
+    {
+        "id": "1057",
+        "type": "commune",
+        "en_name": "Kouk Roka",
+        "km_name": "គោករកា",
+        "slug": "kouk-roka",
+        "district_slug": "preaek-pnov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.618,
+            "y": 104.814513,
+            "z": 15
+        }
+    },
+    {
+        "id": "1055",
+        "type": "commune",
+        "en_name": "Ponhea Pon",
+        "km_name": "ពញាពន់",
+        "slug": "ponhea-pon",
+        "district_slug": "preaek-pnov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.660515,
+            "y": 104.787608,
+            "z": 15
+        }
+    },
+    {
+        "id": "1058",
+        "type": "commune",
+        "en_name": "Ponsang",
+        "km_name": "ពន្សាំង",
+        "slug": "ponsang",
+        "district_slug": "preaek-pnov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.621738,
+            "y": 104.758158,
+            "z": 15
+        }
+    },
+    {
+        "id": "1054",
+        "type": "commune",
+        "en_name": "Preaek Pnov",
+        "km_name": "ព្រែកព្នៅ",
+        "slug": "preaek-pnov",
+        "district_slug": "preaek-pnov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.663812,
+            "y": 104.856287,
+            "z": 15
+        }
+    },
+    {
+        "id": "1056",
+        "type": "commune",
+        "en_name": "Samraong",
+        "km_name": "សំរោង",
+        "slug": "samraong",
+        "district_slug": "preaek-pnov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.68758,
+            "y": 104.828684,
+            "z": 15
+        }
+    },
+    {
+        "id": "1029",
+        "type": "commune",
+        "en_name": "Chrang Chamreh Muoy",
+        "km_name": "ច្រាំងចំរេះទី ១",
+        "slug": "chrang-chamreh-muoy",
+        "district_slug": "ruessei-kaev",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.630459,
+            "y": 104.882056,
+            "z": 15
+        }
+    },
+    {
+        "id": "1030",
+        "type": "commune",
+        "en_name": "Chrang Chamreh Pir",
+        "km_name": "ច្រាំងចំរេះទី ២",
+        "slug": "chrang-chamreh-pir",
+        "district_slug": "ruessei-kaev",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.62496,
+            "y": 104.891814,
+            "z": 15
+        }
+    },
+    {
+        "id": "1027",
+        "type": "commune",
+        "en_name": "Kiloumaetr Lekh Prammuoy",
+        "km_name": "គីឡូម៉ែត្រលេខ៦",
+        "slug": "kiloumaetr-lekh-prammuoy",
+        "district_slug": "ruessei-kaev",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.617275,
+            "y": 104.901017,
+            "z": 15
+        }
+    },
+    {
+        "id": "1028",
+        "type": "commune",
+        "en_name": "Ruessei Kaev",
+        "km_name": "ឫស្សីកែវ",
+        "slug": "ruessei-kaev",
+        "district_slug": "ruessei-kaev",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.604442,
+            "y": 104.907305,
+            "z": 15
+        }
+    },
+    {
+        "id": "1026",
+        "type": "commune",
+        "en_name": "Svay Pak",
+        "km_name": "ស្វាយប៉ាក",
+        "slug": "svay-pak",
+        "district_slug": "ruessei-kaev",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.643567,
+            "y": 104.872693,
+            "z": 15
+        }
+    },
+    {
+        "id": "1025",
+        "type": "commune",
+        "en_name": "Tuol Sangkae 1",
+        "km_name": "ទួលសង្កែទី១",
+        "slug": "tuol-sangkae-1",
+        "district_slug": "ruessei-kaev",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.596295,
+            "y": 104.907877,
+            "z": 15
+        }
+    },
+    {
+        "id": "1871",
+        "type": "commune",
+        "en_name": "Tuol Sangkae 2",
+        "km_name": "ទួលសង្កែទី២",
+        "slug": "tuol-sangkae-2",
+        "district_slug": "ruessei-kaev",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.608537,
+            "y": 104.893903,
+            "z": 15
+        }
+    },
+    {
+        "id": "1035",
+        "type": "commune",
+        "en_name": "Khmuonh",
+        "km_name": "ឃ្មួញ",
+        "slug": "khmuonh",
+        "district_slug": "saensokh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.6242,
+            "y": 104.8571,
+            "z": 15
+        }
+    },
+    {
+        "id": "1873",
+        "type": "commune",
+        "en_name": "Kouk Khleang",
+        "km_name": "គោកឃ្លាង",
+        "slug": "kouk-khleang",
+        "district_slug": "saensokh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.579869,
+            "y": 104.852267,
+            "z": 15
+        }
+    },
+    {
+        "id": "1032",
+        "type": "commune",
+        "en_name": "Krang Thnong",
+        "km_name": "ក្រាំងធ្នង់",
+        "slug": "krang-thnong",
+        "district_slug": "saensokh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.332266,
+            "y": 104.836698,
+            "z": 15
+        }
+    },
+    {
+        "id": "1872",
+        "type": "commune",
+        "en_name": "Ou Baek K'am",
+        "km_name": "អូរបែកក្អម",
+        "slug": "ou-baek-kam",
+        "district_slug": "saensokh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.550613,
+            "y": 104.887108,
+            "z": 15
+        }
+    },
+    {
+        "id": "1033",
+        "type": "commune",
+        "en_name": "Phnom Penh Thmei",
+        "km_name": "ភ្នំពេញថ្មី",
+        "slug": "phnom-penh-thmei",
+        "district_slug": "saensokh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.5831082,
+            "y": 104.8765566,
+            "z": 15
+        }
+    },
+    {
+        "id": "1034",
+        "type": "commune",
+        "en_name": "Tuek Thla",
+        "km_name": "ទឹកថ្លា",
+        "slug": "tuek-thla",
+        "district_slug": "saensokh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.5516,
+            "y": 104.8711,
+            "z": 15
+        }
+    },
+    {
+        "id": "1001",
+        "type": "commune",
+        "en_name": "Boeng Kak Muoy",
+        "km_name": "បឹងកក់ទី ១",
+        "slug": "boeng-kak-muoy",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.582982,
+            "y": 104.898094,
+            "z": 15
+        }
+    },
+    {
+        "id": "1002",
+        "type": "commune",
+        "en_name": "Boeng Kak Pir",
+        "km_name": "បឹងកក់ទី ២",
+        "slug": "boeng-kak-pir",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.575537,
+            "y": 104.8929,
+            "z": 15
+        }
+    },
+    {
+        "id": "1004",
+        "type": "commune",
+        "en_name": "Boeng Salang",
+        "km_name": "បឹងសាឡាង",
+        "slug": "boeng-salang",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.552960307671,
+            "y": 104.89709292244,
+            "z": 15
+        }
+    },
+    {
+        "id": "1003",
+        "type": "commune",
+        "en_name": "Phsar Daeum Kor",
+        "km_name": "ផ្សារដើមគរ",
+        "slug": "phsar-daeum-kor",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.557593819579,
+            "y": 104.90428480451,
+            "z": 15
+        }
+    },
+    {
+        "id": "997",
+        "type": "commune",
+        "en_name": "Phsar Depou Bei",
+        "km_name": "ផ្សារដេប៉ូទី ៣",
+        "slug": "phsar-depou-bei",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.562938,
+            "y": 104.904536,
+            "z": 15
+        }
+    },
+    {
+        "id": "995",
+        "type": "commune",
+        "en_name": "Phsar Depou Muoy",
+        "km_name": "ផ្សារដេប៉ូទី ១",
+        "slug": "phsar-depou-muoy",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.569989,
+            "y": 104.9033,
+            "z": 15
+        }
+    },
+    {
+        "id": "996",
+        "type": "commune",
+        "en_name": "Phsar Depou Pir",
+        "km_name": "ផ្សារដេប៉ូទី ២",
+        "slug": "phsar-depou-pir",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.566171,
+            "y": 104.903892,
+            "z": 15
+        }
+    },
+    {
+        "id": "1000",
+        "type": "commune",
+        "en_name": "Tuek L'ak Bei",
+        "km_name": "ទឹកល្អក់ទី ៣",
+        "slug": "tuek-lak-bei",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.558372,
+            "y": 104.892156,
+            "z": 15
+        }
+    },
+    {
+        "id": "998",
+        "type": "commune",
+        "en_name": "Tuek L'ak Muoy",
+        "km_name": "ទឹកល្អក់ទី ១",
+        "slug": "tuek-lak-muoy",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.568492,
+            "y": 104.894752,
+            "z": 15
+        }
+    },
+    {
+        "id": "999",
+        "type": "commune",
+        "en_name": "Tuek L'ak Pir",
+        "km_name": "ទឹកល្អក់ទី ២",
+        "slug": "tuek-lak-pir",
+        "district_slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.563421,
+            "y": 104.896171,
+            "z": 15
+        }
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "id": "1863",
+        "type": "district",
+        "en_name": "Boeng Keng Kang",
+        "km_name": "បឹងកេងកង",
+        "slug": "boeng-keng-kang",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.5489263,
+            "y": 104.9113011,
+            "z": 15
+        }
+    },
+    {
+        "id": "960",
+        "type": "district",
+        "en_name": "Chamkar Mon",
+        "km_name": "ចំការមន",
+        "slug": "chamkar-mon",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.549817,
+            "y": 104.936845,
+            "z": 15
+        }
+    },
+    {
+        "id": "1059",
+        "type": "district",
+        "en_name": "Chbar Ampov",
+        "km_name": "ច្បារអំពៅ",
+        "slug": "chbar-ampov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.504336,
+            "y": 104.993157,
+            "z": 15
+        }
+    },
+    {
+        "id": "1047",
+        "type": "district",
+        "en_name": "Chrouy Changva",
+        "km_name": "ជ្រោយចង្វារ",
+        "slug": "chrouy-changva",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.667026,
+            "y": 104.913522,
+            "z": 15
+        }
+    },
+    {
+        "id": "1005",
+        "type": "district",
+        "en_name": "Dangkao",
+        "km_name": "ដង្កោ",
+        "slug": "dangkao",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.474318,
+            "y": 104.865898,
+            "z": 15
+        }
+    },
+    {
+        "id": "973",
+        "type": "district",
+        "en_name": "Doun Penh",
+        "km_name": "ដូនពេញ",
+        "slug": "doun-penh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.567447,
+            "y": 104.925093,
+            "z": 15
+        }
+    },
+    {
+        "id": "1864",
+        "type": "district",
+        "en_name": "Kamboul",
+        "km_name": "កំបូល",
+        "slug": "kamboul",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.52101,
+            "y": 104.779529,
+            "z": 15
+        }
+    },
+    {
+        "id": "1019",
+        "type": "district",
+        "en_name": "Mean Chey",
+        "km_name": "មានជ័យ",
+        "slug": "mean-chey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.520052,
+            "y": 104.919475,
+            "z": 15
+        }
+    },
+    {
+        "id": "1036",
+        "type": "district",
+        "en_name": "Por Senchey",
+        "km_name": "ពោធិសែនជ័យ",
+        "slug": "por-senchey",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.5538562,
+            "y": 104.826722,
+            "z": 15
+        }
+    },
+    {
+        "id": "985",
+        "type": "district",
+        "en_name": "Prampir Meakkakra",
+        "km_name": "៧មករា",
+        "slug": "prampir-meakkakra",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.563604,
+            "y": 104.913905,
+            "z": 15
+        }
+    },
+    {
+        "id": "1053",
+        "type": "district",
+        "en_name": "Preaek Pnov",
+        "km_name": "ព្រែកព្នៅ",
+        "slug": "preaek-pnov",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.64652,
+            "y": 104.809709,
+            "z": 15
+        }
+    },
+    {
+        "id": "1024",
+        "type": "district",
+        "en_name": "Ruessei Kaev",
+        "km_name": "ឫស្សីកែវ",
+        "slug": "ruessei-kaev",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.609905,
+            "y": 104.899212,
+            "z": 15
+        }
+    },
+    {
+        "id": "1031",
+        "type": "district",
+        "en_name": "Saensokh",
+        "km_name": "សែនសុខ",
+        "slug": "saensokh",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.58955,
+            "y": 104.870097,
+            "z": 15
+        }
+    },
+    {
+        "id": "994",
+        "type": "district",
+        "en_name": "Tuol Kouk",
+        "km_name": "ទួលគោក",
+        "slug": "tuol-kouk",
+        "province_slug": "phnom-penh",
+        "orders": "99",
+        "popular": false,
+        "icon": null,
+        "map": {
+            "x": 11.572323,
+            "y": 104.899049,
+            "z": 15
+        }
+    }
+]
