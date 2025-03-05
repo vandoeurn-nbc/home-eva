@@ -3,6 +3,7 @@ import json
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QLabel, QLineEdit, QComboBox, QProgressDialog
 from PyQt6.QtGui import QPixmap, QPalette, QBrush, QFont, QIntValidator
 from PyQt6.QtCore import Qt, QTimer
+from model import estimate_price
 from result import ResultWindow
 
 class PropertyPriceEstimation(QWidget):
@@ -150,11 +151,13 @@ class PropertyPriceEstimation(QWidget):
                     longitude = commune['map']['y']
                     break
             
-            print(f"Selected Property Type ID: {property_type_id}")
-            print(f"Latitude: {latitude}, Longitude: {longitude}")
-            print(f"Size: {size_value}")
-            print(f"Bedrooms: {bedrooms_value}")
-            print(f"Bathrooms: {bathrooms_value}")
+            # print(f"Selected Property Type ID: {property_type_id}")
+            # print(f"Latitude: {latitude}, Longitude: {longitude}")
+            # print(f"Size: {size_value}")
+            # print(f"Bedrooms: {bedrooms_value}")
+            # print(f"Bathrooms: {bathrooms_value}")
+
+            price = estimate_price(property_type_id, latitude, longitude, float(size_value), int(bedrooms_value), int(bathrooms_value))
             
             # Show loading dialog
             loading_dialog = QProgressDialog("Loading...", "Cancel", 0, 100, self)
@@ -168,6 +171,7 @@ class PropertyPriceEstimation(QWidget):
                 property_type, 
                 self.districtBox.currentText(), 
                 self.districtBox.currentText(), 
+                price,
                 size_value, 
                 bathrooms_value, 
                 bathrooms_value)

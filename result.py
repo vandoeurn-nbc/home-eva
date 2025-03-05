@@ -4,11 +4,11 @@ from PyQt6.QtGui import QPixmap, QPalette, QBrush, QFont
 from PyQt6.QtCore import Qt
 
 class ResultWindow(QWidget):
-    def __init__(self, property_type, district, commune, size_value, bedrooms_value, bathrooms_value):
+    def __init__(self, property_type, district, commune, price, size_value, bedrooms_value, bathrooms_value):
         super().__init__()
-        self.initUI(property_type, district, commune, size_value, bedrooms_value, bathrooms_value)
+        self.initUI(property_type, district, commune, price, size_value, bedrooms_value, bathrooms_value)
     
-    def initUI(self, property_type, district, commune, size_value, bedrooms_value, bathrooms_value):
+    def initUI(self, property_type, district, commune, price, size_value, bedrooms_value, bathrooms_value):
         layout = QVBoxLayout()
         layout.setAlignment(Qt.AlignmentFlag.AlignCenter)
         
@@ -33,6 +33,12 @@ class ResultWindow(QWidget):
         
         layout.addSpacing(16)
         font = QFont('Arial', 18)
+
+        estimate_price_label = QLabel(f"Estimated Price: {price}")
+        estimate_price_label.setFont(QFont('Arial', 24))
+        estimate_price_label.setMargin(20)
+        estimate_price_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        layout.addWidget(estimate_price_label)
         
         # Display the passed data with the specified font
         property_type_label = QLabel(f"Property Type: {property_type}")
