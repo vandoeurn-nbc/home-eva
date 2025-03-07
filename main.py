@@ -4,10 +4,12 @@ from PyQt6.QtGui import QPixmap, QPalette, QBrush, QFont
 from PyQt6.QtCore import Qt
 from PyQt6.QtGui import QFont
 from search_form import PropertyPriceEstimation
+from search_database import create_database
 
 class BackgroundWindow(QWidget):
     def __init__(self):
         super().__init__()
+        create_database()
         self.setGeometry(100, 100, 1440, 1024)
         
         palette = QPalette()

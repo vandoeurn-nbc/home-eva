@@ -4,6 +4,8 @@ from PyQt6.QtGui import QPixmap, QPalette, QBrush, QFont, QIntValidator
 from PyQt6.QtCore import Qt
 from model import estimate_price
 from result import ResultWindow
+from resent_search import RecentSearchesWindow
+from search_database import save_search
 
 class PropertyPriceEstimation(QWidget):
     def __init__(self):
@@ -49,6 +51,10 @@ class PropertyPriceEstimation(QWidget):
         
         # Search Button
         self.searchButton = self.create_search_button()
+        
+        # Recent Search Button
+        self.recentSearchButton = self.create_recent_search_button()
+        
         
         # Add widgets to layout
         self.add_widgets_to_layout(layout)
@@ -165,6 +171,22 @@ class PropertyPriceEstimation(QWidget):
         """)
         search_button.clicked.connect(self.on_search_click)
         return search_button
+    
+    def create_recent_search_button(self):
+        """Create and return the search button."""
+        search_button = QPushButton("RECENT SEARCH")
+        search_button.setFont(QFont('Sora', 14))
+        search_button.setStyleSheet("""
+            background-color: #3094CE; 
+            color: white; 
+            padding: 10px;
+            border-radius: 8px; 
+            min-width: 400px; 
+            max-width: 400px; 
+            font-weight: bold;
+        """)
+        search_button.clicked.connect(self.on_recent_search_click)
+        return search_button
 
     def add_widgets_to_layout(self, layout):
         """Add all widgets to the layout."""
@@ -175,6 +197,7 @@ class PropertyPriceEstimation(QWidget):
         layout.addWidget(self.bedroomsInput, alignment=Qt.AlignmentFlag.AlignHCenter)
         layout.addWidget(self.bathroomsInput, alignment=Qt.AlignmentFlag.AlignHCenter)
         layout.addWidget(self.searchButton, alignment=Qt.AlignmentFlag.AlignHCenter)
+        layout.addWidget(self.recentSearchButton, alignment=Qt.AlignmentFlag.AlignHCenter)
 
     def set_background_image(self):
         """Set the background image for the window."""
@@ -185,6 +208,11 @@ class PropertyPriceEstimation(QWidget):
         except Exception:
             palette.setColor(QPalette.ColorRole.Window, Qt.GlobalColor.white)
         self.setPalette(palette)
+
+    def on_recent_search_click(self): 
+        """Open the recent searches window."""
+        self.recentSearchesWindow = RecentSearchesWindow()
+        self.recentSearchesWindow.show()
 
     def on_search_click(self):
     
@@ -261,6 +289,9 @@ class PropertyPriceEstimation(QWidget):
         # Estimate the price
         price = estimate_price(property_type_id, latitude, longitude, size_value, bedrooms_value, bathrooms_value)
 
+        # Save search result to database
+        save_search(property_type, self.districtBox.currentText(), self.communeBox.currentText(), price, size_value, bedrooms_value, bathrooms_value)
+
         # Show loading dialog
         loading_dialog = QProgressDialog("Loading...", "Cancel", 0, 100, self)
         loading_dialog.setWindowModality(Qt.WindowModality.WindowModal)
@@ -292,6 +323,9 @@ class PropertyPriceEstimation(QWidget):
         else:
             self.bedroomsInput.hide()
             self.bathroomsInput.hide()
+        self.bathroomsInput.clear()
+        self.sizeInput.clear    
+        self.bedroomsInput.clear()
 
     def update_commune_box(self):
         """Update the commune combo box based on selected district."""
