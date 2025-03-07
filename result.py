@@ -34,13 +34,14 @@ class ResultWindow(QWidget):
         layout.addSpacing(16)
         font = QFont('Arial', 18)
 
+        # Estimated Price
         estimate_price_label = QLabel(f"Estimated Price: {price}")
         estimate_price_label.setFont(QFont('Arial', 24))
         estimate_price_label.setMargin(20)
         estimate_price_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         layout.addWidget(estimate_price_label)
         
-        # Display the passed data with the specified font
+        # Display the property details
         property_type_label = QLabel(f"Property Type: {property_type}")
         property_type_label.setFont(font)
         layout.addWidget(property_type_label)
@@ -57,13 +58,15 @@ class ResultWindow(QWidget):
         size_label.setFont(font)
         layout.addWidget(size_label)
         
-        bedrooms_label = QLabel(f"Number of bedrooms: {bedrooms_value}")
-        bedrooms_label.setFont(font)
-        layout.addWidget(bedrooms_label)
-        
-        bathrooms_label = QLabel(f"Number of bathrooms: {bathrooms_value}")
-        bathrooms_label.setFont(font)
-        layout.addWidget(bathrooms_label)
+        # Only add bedroom & bathroom labels if it's a House
+        if property_type == "House":
+            bedrooms_label = QLabel(f"Number of bedrooms: {bedrooms_value}")
+            bedrooms_label.setFont(font)
+            layout.addWidget(bedrooms_label)
+
+            bathrooms_label = QLabel(f"Number of bathrooms: {bathrooms_value}")
+            bathrooms_label.setFont(font)
+            layout.addWidget(bathrooms_label)
 
         self.setLayout(layout)
         self.setGeometry(100, 100, 1440, 1024)
