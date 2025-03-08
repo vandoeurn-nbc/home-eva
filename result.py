@@ -12,7 +12,6 @@ class ResultWindow(QWidget):
         layout = QVBoxLayout()
         layout.setAlignment(Qt.AlignmentFlag.AlignCenter)
         
-        # Logo
         logo_label = QLabel(self)
         try:
             logo_pixmap = QPixmap("resource/logo.png")
@@ -69,7 +68,7 @@ class ResultWindow(QWidget):
             layout.addWidget(bathrooms_label)
 
         self.setLayout(layout)
-        self.setGeometry(100, 100, 1440, 1024)
+        self.setGeometry(100, 100, 800, 1000)
         
         # Background
         palette = QPalette()

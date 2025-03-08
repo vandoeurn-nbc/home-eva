@@ -4,7 +4,7 @@ from PyQt6.QtGui import QPixmap, QPalette, QBrush, QFont, QIntValidator
 from PyQt6.QtCore import Qt
 from model import estimate_price
 from result import ResultWindow
-from resent_search import RecentSearchesWindow
+from search_history import SearchHistoryWindow
 from search_database import save_search
 
 class PropertyPriceEstimation(QWidget):
@@ -53,7 +53,7 @@ class PropertyPriceEstimation(QWidget):
         self.searchButton = self.create_search_button()
         
         # Recent Search Button
-        self.recentSearchButton = self.create_recent_search_button()
+        self.searchHistoryButton = self.create_search_history_button()
         
         
         # Add widgets to layout
@@ -172,11 +172,11 @@ class PropertyPriceEstimation(QWidget):
         search_button.clicked.connect(self.on_search_click)
         return search_button
     
-    def create_recent_search_button(self):
+    def create_search_history_button(self):
         """Create and return the search button."""
-        search_button = QPushButton("RECENT SEARCH")
-        search_button.setFont(QFont('Sora', 14))
-        search_button.setStyleSheet("""
+        search_history_button = QPushButton("VIEW SEARCH HISTORY")
+        search_history_button.setFont(QFont('Sora', 14))
+        search_history_button.setStyleSheet("""
             background-color: #3094CE; 
             color: white; 
             padding: 10px;
@@ -185,8 +185,8 @@ class PropertyPriceEstimation(QWidget):
             max-width: 400px; 
             font-weight: bold;
         """)
-        search_button.clicked.connect(self.on_recent_search_click)
-        return search_button
+        search_history_button.clicked.connect(self.on_view_search_history_click)
+        return search_history_button
 
     def add_widgets_to_layout(self, layout):
         """Add all widgets to the layout."""
@@ -197,7 +197,7 @@ class PropertyPriceEstimation(QWidget):
         layout.addWidget(self.bedroomsInput, alignment=Qt.AlignmentFlag.AlignHCenter)
         layout.addWidget(self.bathroomsInput, alignment=Qt.AlignmentFlag.AlignHCenter)
         layout.addWidget(self.searchButton, alignment=Qt.AlignmentFlag.AlignHCenter)
-        layout.addWidget(self.recentSearchButton, alignment=Qt.AlignmentFlag.AlignHCenter)
+        layout.addWidget(self.searchHistoryButton, alignment=Qt.AlignmentFlag.AlignHCenter)
 
     def set_background_image(self):
         """Set the background image for the window."""
@@ -209,10 +209,10 @@ class PropertyPriceEstimation(QWidget):
             palette.setColor(QPalette.ColorRole.Window, Qt.GlobalColor.white)
         self.setPalette(palette)
 
-    def on_recent_search_click(self): 
-        """Open the recent searches window."""
-        self.recentSearchesWindow = RecentSearchesWindow()
-        self.recentSearchesWindow.show()
+    def on_view_search_history_click(self): 
+        """Open the search historywindow."""
+        self.searchHistoryWindow = SearchHistoryWindow()
+        self.searchHistoryWindow.show()
 
     def on_search_click(self):
     
