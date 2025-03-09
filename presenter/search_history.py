@@ -1,5 +1,3 @@
-import sys
-import json
 from math import isclose
 from search_database import get_recent_searches, get_search_by_id
 from result import ResultWindow
