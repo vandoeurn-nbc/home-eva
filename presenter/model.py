@@ -1,8 +1,8 @@
 import pickle
 
-house_model = pickle.load(open('model/house_rf.sav', 'rb'))
-condo_model = pickle.load(open('model/condo_rf.sav', 'rb'))
-land_model = pickle.load(open('model/land_rf.sav', 'rb'))
+house_model = pickle.load(open('model/house_gb.sav', 'rb'))
+condo_model = pickle.load(open('model/condo_gb.sav', 'rb'))
+land_model = pickle.load(open('model/land_gb.sav', 'rb'))
 
 def estimate_price(property_type, latitude, longitude, size_value, bedrooms_value, bathrooms_value):
     result = []
